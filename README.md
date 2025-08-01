@@ -1,4 +1,4 @@
-# Document Image Cleaner
+# Document Cleaner
 
 **A lightweight, Linux-friendly Python GUI tool to clean up scanned documents.**  
 Supports threshold adjustment, deskewing, cropping, and OCR conversion with Tesseract and OCRmyPDF.
@@ -39,5 +39,5 @@ Make sure the following are installed:
 ## 🚀 Usage
 
 ```bash
-python3 document_image_cleaner.py
+python3 document-cleaner.py
 
