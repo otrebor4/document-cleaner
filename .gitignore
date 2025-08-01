@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# VSCode and editors
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary or generated files
+*_input.png
+*_output.png
+*.log
+*.tmp
+*.temp
+*.pdf
+*.jpg
+*.txt
+
+# OCR generated files
+_ocr_*.png
+_ocr_base.pdf
+
+# Backup and test results
+*.old
+*.orig
+*.bak
+
+# GitHub actions (optional, if used)
+.github/
+
+# Others you might add later as needed
+
